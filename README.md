@@ -1,10 +1,12 @@
 Hello, I'm Yō Wauke. 👋
 
-- **Languages**: JavaScript, TypeScript, CSS, HTML
-- **Frameworks**: Lit
-- **Tools**: VS Code, Git, PhotoShop, Illustrator, XD, Figma 
+I'm a front-end web developer.  
+I work fully remotely from Okinawa, Japan.  
+I'm passionate about Web Components and Extensions.  
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=piayoe&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=piayo&show_icons=true&locale=en&layout=compact)
+
+![](https://skillicons.dev/icons?i=vscode,webpack,html,css,js,ts,jquery,lit,sass,vite,vitest,supabase,wordpress,php,nodejs,npm,figma,github,gitlab,ps,ai,xd)
 
 <!--
 **piayo/piayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
