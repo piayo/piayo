@@ -1,4 +1,10 @@
-## Hi there 👋
+Hello, I'm Yō Wauke. 👋
+
+- **Languages**: JavaScript, TypeScript, CSS, HTML
+- **Frameworks**: Lit
+- **Tools**: VS Code, Git, PhotoShop, Illustrator, XD, Figma 
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
 
 <!--
 **piayo/piayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
