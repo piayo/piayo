@@ -4,7 +4,7 @@ Hello, I'm Yō Wauke. 👋
 - **Frameworks**: Lit
 - **Tools**: VS Code, Git, PhotoShop, Illustrator, XD, Figma 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=piayo)
 
 <!--
 **piayo/piayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
