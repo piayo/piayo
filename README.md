@@ -1,8 +1,6 @@
 Hello, I'm Yō Wauke. 👋
 
-I'm a front-end web developer.  
-I work fully remotely from Okinawa, Japan.  
-I'm passionate about Web Components and Extensions.  
+I am a front-end web developer working fully remotely from Okinawa/Japan, and you are passionate about Web Components and Extensions.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=piayo&show_icons=true&locale=en&layout=compact)
 
